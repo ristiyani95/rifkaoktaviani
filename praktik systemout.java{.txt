@@ -1,0 +1,19 @@
+class risti {
+    public static void main(String[] args) {
+        System.out.println("----------------------------");
+        System.out.print("SMK YAPPRI");
+        System.out.println(" SUMEDANG ");
+        System.out.print("Nama :risti,");
+        System.out.println("rifka");
+        System.out.print("kelas :");
+        System.out.println(" rpl 1");
+        System.out.print("jurusan :");
+        System.out.println(" teknik informatika");
+        System.out.println("---------------------------");
+        System.out.print("Alamat:");
+        System.out.println(" jl.wado-kirisik km.06 ");
+        System.out.println("banjarsari - jatinuggal kab.sumedang");
+        System.out.println("----------------------------");
+        
+    }
+}
