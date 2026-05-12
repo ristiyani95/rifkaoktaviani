@@ -14,7 +14,7 @@
 }
 
 body {
-    background-image: url("background.JPG");
+    background-image: url("background.jpg");
     color: var(--light);
     line-height: 1.6;
 }
