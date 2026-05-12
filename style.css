@@ -14,7 +14,7 @@
 }
 
 body {
-    background-image: url("lautan.webp");
+    background-image: url("background.jpg");
     color: var(--light);
     line-height: 1.6;
 }
