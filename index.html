@@ -200,6 +200,17 @@
 </section>
 
 </main>
+        
+      <script>
+document.querySelectorAll(".nav-links a").forEach(a => {
+  a.addEventListener("click", function(e) {
+    e.preventDefault();
+
+    document.querySelectorAll(".content-section").forEach(s => s.classList.remove("active"));
+    document.getElementById(this.dataset.section).classList.add("active");
+  });
+});
+</script>  
 
 </body>
 </html>
